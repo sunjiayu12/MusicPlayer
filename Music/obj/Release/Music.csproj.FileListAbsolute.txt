@@ -1,0 +1,17 @@
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\Music.exe.config
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Interop.WMPLib.dll
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\AxInterop.WMPLib.dll
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.csproj.ResolveComReference.cache
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\Music.exe
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\Music.pdb
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\Interop.WMPLib.dll
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\AxInterop.WMPLib.dll
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.Form1.resources
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.Properties.Resources.resources
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.csproj.GenerateResource.Cache
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.exe
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.pdb
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\Music.exe.manifest
+C:\Users\sunjiayu\Desktop\Music\Music\bin\Release\wmp.dll
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.csprojResolveAssemblyReference.cache
+C:\Users\sunjiayu\Desktop\Music\Music\obj\Release\Music.exe.manifest
